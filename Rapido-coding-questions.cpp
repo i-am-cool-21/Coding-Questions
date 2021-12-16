@@ -4,6 +4,6 @@ using namespace std;
 int main(){
   int n;
   cin>>n;
-  cout<<n*n;
+  cout<<n*n*n;
 
 }
